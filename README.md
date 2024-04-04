@@ -24,7 +24,7 @@
 
 <p align="center">
   Also known as &nbsp;<img height="16" src="https://user-images.githubusercontent.com/20621396/229198663-8ad95415-40c4-4385-bcc7-f310c0333862.png"> <b>Ministral</b>! <a href="https://discord.com/api/oauth2/authorize?client_id=925550988146917456&permissions=536602999920&scope=bot%20applications.commands">Invite the bot to your server</a>. <br>
-  Feel free to join the <a href="https://discord.gg/yx5sPJxWth">support server</a> if you need any help!
+  Feel free to join the <a href="https://discord.gg/TFvSWf9SBb">support server</a> if you need any help!
 </p>
 <hr>
 
