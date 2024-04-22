@@ -22,13 +22,8 @@
   <img src="https://github.com/giorgi-o/SkinPeek/assets/20621396/abfc3615-0baa-403d-a914-472e0311e76b" alt="skinpeeklogo" width="150">
 </p>
 
-<p align="center">
-<<<<<<< HEAD
-  Also known as &nbsp;<img height="16" src="https://user-images.githubusercontent.com/20621396/229198663-8ad95415-40c4-4385-bcc7-f310c0333862.png"> <b>Ministral</b>! <a href="https://discord.com/api/oauth2/authorize?client_id=925550988146917456&permissions=536602999920&scope=bot%20applications.commands">Invite the bot to your server</a>. <br>
+<p align="center"><a href="https://discord.com/api/oauth2/authorize?client_id=925550988146917456&permissions=536602999920&scope=bot%20applications.commands">Invite the bot to your server</a>. <br>
   Feel free to join the <a href="https://discord.gg/TFvSWf9SBb">support server</a> if you need any help!
-=======
-  Feel free to join the <a href="https://discord.gg/cutBUa3j4M">support server</a> if you need any help!
->>>>>>> 7919dc54396dae4dd35dc44a85dcc0d4462af5b0
 </p>
 <hr>
 
